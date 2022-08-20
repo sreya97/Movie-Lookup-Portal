@@ -18,14 +18,6 @@ style.css is used to format the layout of the web page as per the requirement.
 
 
 
-## Deployment
-
-To deploy this project run
-
-```bash
-  npm run deploy
-```
-
 
 ## Run Locally
 
@@ -44,9 +36,7 @@ Go to the project directory
 
 Start the server
 
-```bash
-  npm run start
-```
+Open with liveserver to see the result
 
 
 ## Hosting
