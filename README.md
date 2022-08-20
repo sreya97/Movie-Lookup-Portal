@@ -49,7 +49,7 @@ Start the server
 ```
 
 
-##Hosting
+## Hosting
 
 This application is hosted using the github pages and can be found here in the following link:
 https://sreya97.github.io/Movie-Lookup-Portal/
